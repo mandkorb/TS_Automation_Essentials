@@ -1,0 +1,25 @@
+{
+  "name": "ts_automation_essentials",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandkorb/TS_Automation_Essentials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandkorb/TS_Automation_Essentials/issues"
+  },
+  "homepage": "https://github.com/mandkorb/TS_Automation_Essentials#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.14.1",
+    "typescript": "^5.8.3"
+  }
+}
