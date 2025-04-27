@@ -80,7 +80,7 @@ function typeSafety(): void {
     console.log(`Literal type: ${literal}`);
 }
 
-function main(): void {
+function numbers(): void {
     console.log("=== Basic Operations ===");
     basicOperations();
     console.log("\n=== Number Methods ===");
@@ -99,4 +99,4 @@ function main(): void {
     typeSafety();
 }
 
-main();
+numbers();
